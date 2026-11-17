@@ -1,0 +1,22 @@
+Dear Students,
+
+I would like to clarify a few points as follows:
+
+1/ You are free to decide which team works on the Provider/Customer portal within your squad.
+2/ The Project Charter is submitted on Milestone 1, NOT before Milestone 1, as we started the project late.
+3/ The Project requirements will be modified to mark which features become bonus in Milestone 1, I will upload the amended requirements on Tuesday. Note that the bonus features applied only to Milestone 1, Milestone 2 still have the original requirements.
+4/ Your Squad creates one GitHub Organization. Every team should have their own spaces to manage their own repos, and every team has their own GitHub Project.
+5/ Team with less than 4 members will be expected to work less on functional requirements as follows:
+
+- 4 members: 90% of the requirements
+- 3 members: 80%
+- 2 members: 50%
+- 1 member: 30%
+
+If you have other concerns, feel free to let us know by replying to this announcement.
+
+Warm Regards,
+
+Tri Huynh
+
+Replies to this email will be posted as a reply to the announcement, which will be seen by everyone in the course.

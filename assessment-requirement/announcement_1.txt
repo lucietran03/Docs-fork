@@ -1,0 +1,35 @@
+Dear Students,
+
+The group assignment requirements are now available. You will find the Milestone 1 and Milestone 2 requirements in the same Common Requirement file. You are strongly advised to read this email carefully, I’m sharing the assignment specifications early so you can explore the project, consider your learning goals, and plan your study to determine which difficulty level you are willing to commit in the next 12 weeks of your study.
+
+You may have heard from senior students that this course is highly challenging, I was told it was the most difficult course to several students. That is because the course is designed to help you connect theory with practical experience and prepare for the expectations of your future career at renowned software development company possessing both technical expertise and concern of your wellbeing.
+
+At the same time, I recognize that everyone brings different experience, goals, and commitments to the course. Therefore, the group assignment offers three levels to support these different needs:
+
+Simplex: Recommended if you want to build essential knowledge and practical skills that you can develop further after graduation.
+
+Medium: A substantial challenge if you want to extend your current skills while balancing other commitments. Its difficulty is comparable to HD-level work in Full Stack Development and Enterprise Application Development.
+
+Ultimo: Intended for students aiming for an HD who are ready for a highly challenging project. It builds a strong foundation for tackling more advanced learning during workplace training and future career.
+
+How the project works
+
+Each Squad consists of two teams. Each team develops a subsystem and integrates it with the other team’s subsystem, so collaboration and coordination are central to the assignment.
+
+This semester also includes an "Ultra HD" requirement involving collaboration across Squads. Squads will develop a shared Property Management System (PMS), allowing available rooms in one ecosystem to be visible to users in another. This demonstrates coopetition: businesses cooperate on shared resources or technology while continuing to compete through their own services and strategies.
+
+Preparation and support
+
+The feature requirements and common requirements in the assessment file may feel overwhelming at first. But with you AI buddy, things can be easier, so take your time to read them, and bring your questions to this Project Discussion (anonymous posts possible) — I’m here to help you understand the expectations and choose a suitable level.
+
+A foundation in web development, databases, and backend development is important, particularly Full Stack Development or Enterprise Application Development. If you have not yet developed these skills, I strongly recommend completing these relevant foundational courses before taking this course.
+
+During our first tutorial on Friday, I’ll run a survey about your learning goals, availability, and prior experience. Your responses will help me form teams and pair them into Squads with compatible project targets, commitments, and foundations.
+
+For now, please review the assessment file and consider which level best fits your goals and circumstances. I look forward to supporting you throughout the project, and wish you the best of luck in the upcoming journey.
+
+Warm Regards,
+
+Tri Huynh
+
+Replies to this email will be posted as a reply to the announcement, which will be seen by everyone in the course.
